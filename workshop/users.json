@@ -28,5 +28,10 @@
         "name": "Henry",
         "email": "Henry5@gmail.com",
         "password": "$2y$10$WdUk9L8rvpv1rjRYR.mfLugIb\/IjTT6hB61rdZszcw55dk8qu7j3G"
+    },
+    {
+        "name": "User",
+        "email": "user5@gmail.com",
+        "password": "$2y$10$bVht2vQsuvQbPBN0sc361eMQWnrg3jgimta5ALasNyZ8uTM5i9RK6"
     }
 ]

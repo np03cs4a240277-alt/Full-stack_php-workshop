@@ -1,0 +1,118 @@
+/* ===== General Styles ===== */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+h1, h2, h3 {
+    color: #2c3e50;
+}
+
+hr {
+    border: 1px solid #ccc;
+}
+
+/* ===== Navigation ===== */
+nav a {
+    text-decoration: none;
+    color: #2980b9;
+    margin-right: 15px;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+/* ===== Tables ===== */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+    background-color: #fff;
+}
+
+table th, table td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: left;
+}
+
+table th {
+    background-color: #3498db;
+    color: #fff;
+}
+
+table tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+span {
+    font-weight: bold;
+}
+
+/* ===== Forms ===== */
+form {
+    background-color: #fff;
+    padding: 15px;
+    border: 1px solid #ccc;
+    width: 400px;
+    margin-top: 15px;
+}
+
+form input[type="text"],
+form input[type="number"],
+form input[type="submit"],
+form button {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+form button {
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+form button:hover {
+    background-color: #2980b9;
+}
+
+/* ===== Messages ===== */
+div, p {
+    font-size: 14px;
+}
+
+/* Error Messages */
+div[style*="color:red"] {
+    background-color: #f8d7da;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+/* Success Messages */
+p[style*="color:green"] {
+    background-color: #d4edda;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+/* ===== Autocomplete Suggestions ===== */
+#autocomplete-list {
+    position: absolute;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    max-width: 400px;
+    z-index: 1000;
+}
+
+#autocomplete-list div:hover {
+    background-color: #f2f2f2;
+}

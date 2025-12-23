@@ -1,3 +1,4 @@
 {"name":"Sajal","email":"bardewa@gmail.com","skills":["php"]}
 {"name":"Basanta","email":"basantabomjan095@gmail.com","skills":["HTML"]}
 {"name":"Rabin","email":"aasut7156@gmail.com","skills":["java"]}
+{"name":"Rabin","email":"aasut7156@gmail.com","skills":["java"]}

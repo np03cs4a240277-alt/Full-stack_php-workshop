@@ -33,5 +33,10 @@
         "name": "User",
         "email": "user5@gmail.com",
         "password": "$2y$10$bVht2vQsuvQbPBN0sc361eMQWnrg3jgimta5ALasNyZ8uTM5i9RK6"
+    },
+    {
+        "name": "User",
+        "email": "user5@gmail.com",
+        "password": "$2y$10$.SazUsvurlBv.m7QUn6YXOzUbYxktYWdzGHfFJgWLvMdOCzM4fE5y"
     }
 ]
